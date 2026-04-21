@@ -1,4 +1,4 @@
-# ISBI
+# Data Science - Information System and Business Intelligence
 Esame Information System and Business Intelligence - Prof. Flora Amato - A.A. 2023/24
 
 1) Progetto Google Colab: cartella "1_DataProcessing_Colab"
