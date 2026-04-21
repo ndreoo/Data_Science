@@ -1,10 +1,10 @@
 # Data Science - Information System and Business Intelligence
-Esame Information System and Business Intelligence - Prof. Flora Amato - A.A. 2023/24
+Information System and Business Intelligence Exam – Prof. Flora Amato – Academic Year 2023/24
 
-1) Progetto Google Colab: cartella "1_DataProcessing_Colab"
-2) Progetto Dashboard Streamlit: cartella "venv"
-3) Progetto con PowerBI: cartella PowerBI
-4) Progetto con Bonita: cartella Bonita
+Google Colab Project: folder “1_DataProcessing_Colab”
+Streamlit Dashboard Project: folder “venv”
+PowerBI Project: folder “PowerBI”
+Bonita Project: folder “Bonita”
 
-ATTENZIONE!!! In ognuna delle cartelle sopra citate sono presenti file README.md
-per la completa documentazione.
+WARNING!!! Each of the folders listed above contains README.md files
+for complete documentation.
